@@ -3,7 +3,7 @@
 </p>
 
 ## 👕 Breeze-Clothing
-All clothing stores (and barber shops) have been setup to have compatibility with [Gabz](https://www.gabzv.com/) MLO's. You are able to change these polyzones in the 'ped.lua' file.
+All clothing stores (and barber shops) have been setup to have compatibility with [Gabz](https://www.gabzv.com/) MLO's. You are able to change these polyzones in the 'polyzone.lua' file.
 
 Breeze-Clothing is a forked project of [Enzo-DC's QB-Clothes](https://github.com/Enzo-DC/qb-clothes) with QB-Target compatibility as well as pre-setup with [Gabz](https://www.gabzv.com/) MLO's
 
