@@ -6,7 +6,7 @@ shared_script 'config.lua'
 client_scripts {
   'game/build/client.js',
   'client/client.lua',
-  'client/ped.lua'
+  'client/polyzone.lua'
 }
 
 server_scripts {
